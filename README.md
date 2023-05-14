@@ -31,7 +31,7 @@
 
 NOTE: For any other problem, close the app and re-run it.
 
-DEMO LINK: <comming soon...>
+DEMO LINK: {comming soon...}
 
 
 ~ABHIRUP RUDRA
