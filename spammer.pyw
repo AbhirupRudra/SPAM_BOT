@@ -56,6 +56,4 @@ p.place(x=75, y=310)
 o = tk.Button(w, text="ATTACH &\nSTART", command=a_spam  ,fg="white"  ,bg="blue"  ,width=10  ,height=2, activebackground = "white" ,font=('times', 15, ' bold '))
 o.place(x=250, y=300)
 
-# s = tk.Button(w, text="STOP", command=SystemExit  ,fg="white"  ,bg="blue"  ,width=10  ,height=1, activebackground = "white" ,font=('times', 15, ' bold '))
-# s.place(x=250, y=400)
 w.mainloop()
