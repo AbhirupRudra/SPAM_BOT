@@ -5,7 +5,7 @@
 
 1. To print one message multiple times----
 	
-	a. Start the exe file by double clicking the file.
+	a. Start the spammer.py by double clicking the file.
 	
 	b. Enter the number of times you want to spam a message.
 	
@@ -19,7 +19,7 @@
 
 2. To print all the words/sentences from a text file----
 
-	a. Start the exe file by double clicking the file.
+	a. Start the spammer.py file by double clicking the file.
 	
 	b. Enter the starting message of spam.
 	
@@ -30,6 +30,9 @@
 	e. Leave the screen as it is untill spamming stops.
 
 NOTE: For any other problem, close the app and re-run it.
+
+If the file does not start then try installing pyautogui using the commend "pip install pyautogui".
+If you do not have pip installed the install it and then run the command.
 
 DEMO LINK: {comming soon...}
 
