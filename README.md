@@ -31,7 +31,7 @@
 
 NOTE: For any other problem, close the app and re-run it.
 
-If the file does not start then try installing pyautogui using the commend "pip install pyautogui".
+If the file does not start then try installing pyautogui using the command "pip install pyautogui" and "pip install tkinter".
 If you do not have pip installed the install it and then run the command.
 
 DEMO LINK: {comming soon...}
